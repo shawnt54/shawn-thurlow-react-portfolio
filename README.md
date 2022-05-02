@@ -1,2 +1,2 @@
-# Jordan Hudgens React Portfolio Application
+# Shawn Thurlow React Portfolio Application
 
